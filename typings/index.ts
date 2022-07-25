@@ -1,6 +1,6 @@
 /// <reference path="index.d.ts" />
 
-import { Client, Message, MessageAttachment, MessageEmbed } from 'discord.js';
+import { Client, Message, MessageAttachment, MessageEmbed } from 'better-discord.js';
 
 const client: Client = new Client();
 
